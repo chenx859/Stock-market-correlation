@@ -1,2 +1,2 @@
 # Stock-market-correlation
-This program discovers the relationship between different markets by using Support Vector Machine.
+It is widely thought that Asian markets lead the US markets. The purpose of this case is to quantitatively analyze this phenomenon by using Support Vector Machine. For more details, please read the pdf file.
